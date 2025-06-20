@@ -32,6 +32,9 @@ Evaluation: Accuracy, Precision, Recall, F1, Confusion Matrix
 
 ## Resources
 Dataset: https://www.kaggle.com/code/mateorbt/sentiment-analysis-deep-learning
+
 Binary classification: https://github.com/MateoRbt/Sentiment-Analysis
+
 Focal Loss: https://github.com/itakurah/Focal-loss-PyTorch
+
 Repo for code : https://github.com/MateoRbt/Sentiment-Analysis-FinBERT
