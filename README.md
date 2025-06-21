@@ -3,7 +3,7 @@
 This project explores multi-class sentiment classification (positive, negative, neutral) on financial text using various deep learning approaches.
 
 ## Models Compared
-1 ) FinBERT (fine-tuned) – with Focal Loss & class weights
+1) FinBERT (fine-tuned) – with Focal Loss & class weights
 
 2) MLP + FinBERT embeddings – with SMOTE oversampling
 
